@@ -1,0 +1,50 @@
+Key Features
+
+Bootstrap 5
+HTML5 & CSS3
+Header carousel
+Hero Section
+Hero Image
+Sliders
+Dropdown
+Accordion
+Google Map
+404 Page
+Smooth scrolling
+Multilingual Design
+Blog Section
+Video Player
+Search Filter
+FAQ Section
+Breadcrumbs
+On-Hover Effects
+Responsive Design
+Fun-Fact counter
+Header Carousel
+SEO Friendly
+User-Friendly
+Clean Codebase
+Multipage Design
+Developer-Friendly
+Testimonial Carousel
+Call-to-Action Buttons
+Sticky top Navigation Bar
+Cross-Browser Compatible
+Newsletter Subscription Form UI
+Sass-supported Codebase
+ 
+
+In the Box
+10+ HTML Pages
+HTML & CSS
+All Demo Images
+JavaScript Source Files
+Library & Plugins
+ 
+
+Library & Plugins
+Bootstrap 5
+Google Fonts
+Lightbox
+Google Map
+Font Awesome
